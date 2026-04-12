@@ -40,13 +40,13 @@ It provides meaningful insights into transaction volume, value, and user behavio
 ## 📷 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard](./images/dashboard.png)
+![Dashboard](./HomePage.png)
 
 ### 🔹 State-wise Analysis
-![State Analysis](./images/state_analysis.png)
+![State Analysis](./Insurance.png)
 
 ### 🔹 Transaction Trends
-![Trends](./images/trends.png)
+![Trends](./LoansPage.png)
 
 ---
 
@@ -81,8 +81,8 @@ Contributions are welcome! Feel free to fork this repository and improve the pro
 
 ## 📧 Contact
 Aditya Nigam  
-(Add your email here)  
-(Add your LinkedIn / GitHub link)
+(adityanigam14569@gmail.com)  
+
 
 ---
 
