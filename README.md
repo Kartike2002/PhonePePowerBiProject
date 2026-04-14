@@ -23,20 +23,6 @@ It provides meaningful insights into transaction volume, value, and user behavio
 
 ---
 
-## 📂 Project Structure
-```bash
-📁 PhonePe-Dashboard
- ┣ 📄 PhonePe_Dashboard.pbix
- ┣ 📄 dataset.csv
- ┣ 📁 images
- ┃ ┣ 📄 dashboard.png
- ┃ ┣ 📄 state_analysis.png
- ┃ ┗ 📄 trends.png
- ┗ 📄 README.md
-```
-
----
-
 ## 📷 Dashboard Preview
 
 ### 🔹 Main Dashboard
